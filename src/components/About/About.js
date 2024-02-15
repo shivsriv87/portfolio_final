@@ -4,8 +4,6 @@ import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-
-// import homeLogo from "../../Assets/home-main.svg";
 import shiv from "../../Assets/shiv.jpg";
 
 
