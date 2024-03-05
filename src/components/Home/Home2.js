@@ -115,7 +115,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/shhiivvaanng/"
+                  href="https://www.instagram.com/shiv.sriv87/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
@@ -136,7 +136,7 @@ function Home2() {
                 </li>
                 <li className="social-icons">
                 <a
-                  href="https://leetcode.com/shivsriv87/"
+                  href="https://leetcode.com/shhiivvaanng/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
